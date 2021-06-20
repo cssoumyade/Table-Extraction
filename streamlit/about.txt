@@ -1,0 +1,1 @@
+This is a Streamlit app to extract table information from an image containing table. This work is uses a variant of TableNet architechture with DenseNet121 as the encoder.
